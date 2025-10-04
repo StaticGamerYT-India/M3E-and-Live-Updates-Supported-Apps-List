@@ -29,6 +29,7 @@
 | 4 | **Image Toolbox** | [GitHub](https://github.com/T8RIN/ImageToolbox) | ✅ | ✅ | ❌ |
 | 5 | **Grit (Productivity)** | [GitHub](https://github.com/shub39/Grit) | ✅ | ✅ | ❌ |
 | 6 | **Flux (Productivity)** | [GitHub](https://github.com/chindaronit/Flux) | ✅ | ✅ | ❌ |
+| 7 | **Box Box (F1 widgets app)** | [Play Store](https://play.google.com/store/apps/details?id=club.boxbox.android) | ❌ | ✅ | ✅ |
 
 ---
 
