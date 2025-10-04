@@ -5,8 +5,8 @@ A nice list of apps that support googles Material 3 Expressive Design language a
 
 | App Name | Download Link | Open Source | Supports M3E | Supports Live Updates |
 |----------|---------------|-------------|--------------|----------------------|
-| Google Maps | [Download](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en_IN)) | ❌ Nah | ✅ Yeah | ✅ Yeah |
-| Tomato (Pomodoro Productivity) | [Download](https://github.com/nsh07/Tomato)) | ✅ Yeah | ✅ Yeah | ✅ Yeah |
+| Google Maps | [Download](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en_IN) | ❌ Nah | ✅ Yeah | ✅ Yeah |
+| Tomato (Pomodoro Productivity) | [Download](https://github.com/nsh07/Tomato) | ✅ Yeah | ✅ Yeah | ✅ Yeah |
 
 ---
 
