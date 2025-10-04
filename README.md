@@ -1,36 +1,41 @@
 <div align="center">
 
-# 🎨 M3E & ⚡ Live Updates Supported Apps List  
+# 🎨✨ Material 3 Expressive & ⚡ Android 16 Live Updates Showcase  
 
-*A curated list of Android apps that embrace Google’s **Material 3 Expressive Design** and **Android 16 Live Updates** features.*
+> *A stunning collection of apps that embody the future of Android design — built with Material 3 Expressive & powered by Live Updates.*
+
+---
+
+[![Material 3 Expressive](https://img.shields.io/badge/Material%203-Expressive%20Design-%23BB86FC?style=for-the-badge&logo=android&logoColor=white)](https://m3.material.io/)
+[![Android 16](https://img.shields.io/badge/Android%2016-Live%20Updates-%233DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Community%20Driven-%23FFB300?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
 ---
 
-[![Material 3](https://img.shields.io/badge/Material%203-Expressive-blueviolet?style=for-the-badge&logo=android)](https://m3.material.io/)
-[![Android 16](https://img.shields.io/badge/Android-16-green?style=for-the-badge&logo=android)](https://developer.android.com/)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Love❤️-brightgreen?style=for-the-badge&logo=github)](https://github.com/)
-
----
+🧭 **Design Principles Inspired By:**  
+> *Expressive • Adaptive • Fluid • Human-centered*
 
 </div>
 
-## 📱 App List
+---
 
-| # | App Name | Download Link | 🪴 Open Source | 🎨 Supports M3E | ⚡ Live Updates |
-|:-:|-----------|----------------|:--------------:|:---------------:|:---------------:|
-| 1 | **Google Maps** | [Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en_IN) | ❌ Nah | ✅ Yeah | ✅ Yeah |
-| 2 | **Tomato (Pomodoro Productivity)** | [GitHub](https://github.com/nsh07/Tomato) | ✅ Yeah | ✅ Yeah | ✅ Yeah |
-| 3 | **Metrolist Music App** | [GitHub](https://github.com/mostafaalagamy/Metrolist) | ✅ Yeah | ✅ Yeah | ❌ Nah |
-| 4 | **Image Toolbox** | [GitHub](https://github.com/T8RIN/ImageToolbox) | ✅ Yeah | ✅ Yeah | ❌ Nah |
-| 5 | **Grit (Productivity)** | [GitHub](https://github.com/shub39/Grit) | ✅ Yeah | ✅ Yeah | ❌ Nah |
-| 6 | **Flux (Productivity)** | [GitHub](https://github.com/chindaronit/Flux) | ✅ Yeah | ✅ Yeah | ❌ Nah |
+## 🪄 Featured App List  
+
+| 🌟 | App Name | 🔗 Download | 🪴 Open Source | 🎨 M3 Expressive | ⚡ Live Updates |
+|:--:|-----------|-------------|:--------------:|:----------------:|:----------------:|
+| 1 | **Google Maps** | [Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.maps&hl=en_IN) | ❌ | ✅ | ✅ |
+| 2 | **Tomato (Pomodoro Productivity)** | [GitHub](https://github.com/nsh07/Tomato) | ✅ | ✅ | ✅ |
+| 3 | **Metrolist Music App** | [GitHub](https://github.com/mostafaalagamy/Metrolist) | ✅ | ✅ | ❌ |
+| 4 | **Image Toolbox** | [GitHub](https://github.com/T8RIN/ImageToolbox) | ✅ | ✅ | ❌ |
+| 5 | **Grit (Productivity)** | [GitHub](https://github.com/shub39/Grit) | ✅ | ✅ | ❌ |
+| 6 | **Flux (Productivity)** | [GitHub](https://github.com/chindaronit/Flux) | ✅ | ✅ | ❌ |
 
 ---
 
-## 🧩 How to Contribute
+## 🧩 Contribute your masterpiece  
 
-Want to add an app to the list?  
-Fork this repo and include the following info in your **Pull Request** or **Issue** 👇  
+Want your app featured here?  
+Share your **Material 3 Expressive** creation by opening a PR or issue using this format:
 
 ```yaml
 App Name: <Your App Name>
