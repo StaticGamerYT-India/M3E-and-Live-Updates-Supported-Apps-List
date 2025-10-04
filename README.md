@@ -2,7 +2,7 @@
 
 # 🎨✨ Material 3 Expressive & ⚡ Android 16 Live Updates
 
-> *A collection of cool apps
+> *A collection of cool apps*
 
 ---
 
