@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🎨✨ Material 3 Expressive & ⚡ Android 16 Live Updates Showcase  
+# 🎨✨ Material 3 Expressive & ⚡ Android 16 Live Updates
 
-> *A stunning collection of apps that embody the future of Android design — built with Material 3 Expressive & powered by Live Updates.*
+> *A collection of cool apps
 
 ---
 
@@ -32,10 +32,10 @@
 
 ---
 
-## 🧩 Contribute your masterpiece  
+## 🧩 Contribute to make this list better and uhh longer 
 
-Want your app featured here?  
-Share your **Material 3 Expressive** creation by opening a PR or issue using this format:
+  
+Share your fav **Material 3 Expressive** apps by opening a PR or issue using this format:
 
 ```yaml
 App Name: <Your App Name>
