@@ -31,7 +31,8 @@
 | 6 | **Flux (Productivity)** | [GitHub](https://github.com/chindaronit/Flux) | ✅ | ✅ | ❌ |
 | 7 | **Box Box (F1 widgets app)** | [Play Store](https://play.google.com/store/apps/details?id=club.boxbox.android) | ❌ | ✅ | ✅ |
 | 8 | **Cashew (Budget Tracker)** | [Play Store](https://play.google.com/store/apps/details?id=com.budget.tracker_app) / [GitHub](https://github.com/jameskokoska/Cashew) | ✅ | ✅ | ❌ |
-| 9 | **Zomato** | [Play Store](https://play.google.com/store/apps/details?id=com.application.zomato) | ❌ | ❌ | ✅ |
+| 9 | **Unitto (Calculator)** | [Play Store](https://play.google.com/store/apps/details?id=com.sadellie.unitto) / [GitHub](https://github.com/sadellie/unitto) | ✅ | ✅ | ❌ |
+| 10 | **Zomato** | [Play Store](https://play.google.com/store/apps/details?id=com.application.zomato) | ❌ | ❌ | ✅ |
 
 ---
 
